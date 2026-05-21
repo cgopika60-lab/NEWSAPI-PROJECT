@@ -1,0 +1,7 @@
+requests
+streamlit
+psycopg2-binary
+vaderSentiment
+newsapi-python
+pandas
+boto3
